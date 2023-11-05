@@ -14,7 +14,12 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 ## Self-Evaluation: 
 how many points out of 10 do you deserve on this assignment: 
 
+9.367 for sure.
+
 ## Self-Reflection:
 
+As a learning experience for testing, this was actually good because at my job as a UI specialist intern, I just starting participating in QA testing alongside QAT/UAT for build days and learning about Linting, webpack, Jest, and Cypress can help boost my progress at work. I might even impress the guy I'm shadowing on Monday with what I just learned so this was one of the more awesomer lessons. the other ones are good too but this was even more useful!
 
 ### How long it took me to finish this?
+
+2 hours. not bad...
